@@ -1,0 +1,20 @@
+{
+	"folders": [],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 300,
+				"driver": "SQLite",
+				"name": "DB_Booking_01",
+				"database": "D:\\Рабочий стол\\Учёба 4й курс 2023\\Сетевые\\1 лаба - работа с SQLite\\Lab_01 IDZ\\DB_Booking_01.db",
+				"group": "Lab_01"
+			},
+			{
+				"previewLimit": 300,
+				"driver": "SQLite",
+				"name": "Plants_01",
+				"database": "${workspaceFolder:_Проект}/Plants_01.db"
+			}
+		]
+	}
+}
