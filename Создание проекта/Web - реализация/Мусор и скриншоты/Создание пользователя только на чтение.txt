@@ -1,0 +1,12 @@
+CREATE USER 'onlyreader'@'gogortv0.beget.tech' IDENTIFIED BY 'Ded3gQ6%';
+
+GRANT SELECT ON gogortv0_plants1.* TO 'onlyreader'@'gogortv0.beget.tech';
+
+FLUSH PRIVILEGES;
+
+
+CREATE USER 'onlyreader'@'gogortv0.beget.tech' IDENTIFIED BY '...';
+
+GRANT SELECT ON gogortv0_plants1.* TO 'onlyreader'@'gogortv0.beget.tech';
+
+FLUSH PRIVILEGES;
